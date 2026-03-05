@@ -4,9 +4,11 @@
 
 ### Data Analysis Projects 
 
-[GDA Capstone About](/sample_page)
-[GDA Capstone Script](/pdf/sample_presentation.pdf)
-[GDA Capstone Slides](http://example.com/)
+[GDA Capstone About](/GDACapstoneProject/PaulBGDACapstoneAbout.txt)
+---
+[GDA Capstone Script](/GDACapstoneProject/Google_Data_Analytics_Capstone_Case_Study.docx)
+---
+[GDA Capstone Slides](/GDACapstoneProject/Google_Data_Analytics_Capstone_Slideshow.pptx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!--
