@@ -4,18 +4,22 @@
 
 ### Data Analysis Projects 
 
-[Data Analysis About](/sample_page)
+[GDA Capstone About](/sample_page)
+[GDA Capstone Script](/pdf/sample_presentation.pdf)
+[GDA Capstone Slides](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<!--
+---
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Data Analysis Script](/pdf/sample_presentation.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Data Analysis Slides](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+-->
 
 ### Software Development
 
