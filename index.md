@@ -4,6 +4,8 @@
 
 ### Data Analysis Projects 
 
+### Project 1: Google Data Analytics Capstone
+
 [GDA Capstone About](/GDACapstoneProject/PaulBGDACapstoneAbout.txt)
 
 ---
